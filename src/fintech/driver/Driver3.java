@@ -1,9 +1,9 @@
-package academic.driver;
+package fintech.driver;
 
 /**
- * @author NIM Nama
- * @author NIM Nama
+ * @author 12S24013 - Adryan Julianto Panjaitan
  */
+
 public class Driver3 {
 
     public static void main(String[] _args) {
